@@ -1,4 +1,4 @@
-# ☁️ Google Drive Uploader (Python)
+# ☁️ Google Drive Uploader
 
 A lightweight Python tool to **upload files or folders to Google Drive** using OAuth2 with a persistent refresh token.  
 Once authorized, it can run headlessly perfect for backups or automated uploads.
