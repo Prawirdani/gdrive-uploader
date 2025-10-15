@@ -91,13 +91,13 @@ Leave it as an empty string ("") to upload directly to your Drive root.
 ### Upload a single file
 
 ```bash
-python main.py /path/to/file.txt
+python main.py /path/to/config.json /path/to/file.txt
 ```
 
 ### Upload a folder (recursive)
 
 ```bash
-python main.py /path/to/folder/
+python main.py /path/to/config.json /path/to/folder/
 ```
 
 The uploader will:

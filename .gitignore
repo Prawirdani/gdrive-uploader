@@ -1,4 +1,7 @@
+__pycache__
 venv
 client_secret_*.json
 config.json
-__pycache__
+backup.log
+temp
+
