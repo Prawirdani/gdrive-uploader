@@ -9,7 +9,7 @@ class Config:
     client_secret: str
     refresh_token: str
     scopes: List[str]
-    folder_id: str | None
+    folder_id: str
 
 
 def load_config(filepath: str) -> Config:
